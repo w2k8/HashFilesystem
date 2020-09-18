@@ -1,0 +1,30 @@
+#
+# Program settings:
+tmpfolder:/tmp/hash
+
+# Extentions:
+# In this section .....
+include:.png
+
+exclude:.pf
+exclude:.log
+exclude:.log1
+exclude:.ini
+exclude:.evt
+exclude:.evtx
+exclude:.sav
+exclude:.security
+exclude:.software
+exclude:.system
+exclude:.sam
+
+#
+# Folder:
+
+folder:user
+folder:$window
+folder:program files
+folder:windows
+folder:etc
+
+
